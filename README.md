@@ -1,0 +1,2 @@
+- No connect code in the model file, seems illogical to put it into the models code. Also, throughout examples on github, it is usually put in index.js or something similar.
+- Additionally, written backend validation on the person name dublicates to the POST handler.
